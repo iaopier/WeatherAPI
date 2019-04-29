@@ -1,0 +1,5 @@
+com\teste\CitiesWeather\CitiesWeatherApplication.class
+com\teste\CitiesWeather\city\CityController.class
+com\teste\CitiesWeather\city\City.class
+com\teste\CitiesWeather\city\CityRepository.class
+com\teste\CitiesWeather\city\CityService.class
